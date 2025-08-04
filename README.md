@@ -27,7 +27,7 @@ Currently pursuing B.E in Information Technology at BVCOE, Navi Mumbai
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKankal&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
