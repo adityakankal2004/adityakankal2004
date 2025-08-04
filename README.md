@@ -27,10 +27,9 @@ Currently pursuing B.E in Information Technology at BVCOE, Navi Mumbai
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-## 📈 GitHub Activity Graph
+![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKankal&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakankal2004&theme=github&hide_border=true)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A500&size=22&lines=Hi+👋,+I'm+Aditya+Kankal;MERN+Stack+Developer;Turning+ideas+into+code;Java+%7C+Python+%7C+C)](https://git.io/typing-svg)
+
 
 
