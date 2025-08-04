@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Aditya Kankal
 
-## 💻 Web Development | MERN Stack  
-🚀 React ⚛️ | Node.js | MongoDB | Express  
-💡 Turning ideas into code  
-💬 Open to collaborations & ideas  
+Currently pursuing B.E in Information Technology at BVCOE, Navi Mumbai
 
 ## 🛠️ Tech Stack
 
