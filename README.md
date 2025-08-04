@@ -29,4 +29,5 @@ Currently pursuing B.E in Information Technology at BVCOE, Navi Mumbai
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakankal2004&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakankal2004&theme=github&hide_border=true)
+
