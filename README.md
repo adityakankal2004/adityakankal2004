@@ -31,3 +31,6 @@ Currently pursuing B.E in Information Technology at BVCOE, Navi Mumbai
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakankal2004&theme=github&hide_border=true)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A500&size=22&lines=Hi+👋,+I'm+Aditya+Kankal;MERN+Stack+Developer;Turning+ideas+into+code;Java+%7C+Python+%7C+C)](https://git.io/typing-svg)
+
+
